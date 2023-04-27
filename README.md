@@ -17,7 +17,7 @@
 
 ## Download
 
-<a href="https://github.com/haxerzin/HaxKali"><img src="https://raw.githubusercontent.com/haxerzin/HaxKali/main/assets/download_btn.png" alt="Download"></a>
+<a align="center" href="https://github.com/haxerzin/HaxKali"><img src="https://raw.githubusercontent.com/haxerzin/HaxKali/main/assets/download_btn.png" alt="Download"></a>
 
 ## Changelog
 
