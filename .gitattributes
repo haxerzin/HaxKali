@@ -1,0 +1,5 @@
+# auto detect text files and perform LF normalization
+* text-auto
+
+# Raw Content types
+*.qcow2 filter=lfs diff=lfs merge=lfs -text
