@@ -1,8 +1,6 @@
 # HaxKali
 
-<h1><center>EXTREME PERFORMANCE KALI LINUX</center></h1>
-
-## Planned v2
+<h1><center>EXTREME PERFORMANCE OPTIMIZED LINUX</center></h1>
 
 ```
 [ Core ]
