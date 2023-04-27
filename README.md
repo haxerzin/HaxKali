@@ -1,12 +1,9 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/haxerzin/HaxKali"><img src="https://raw.githubusercontent.com/haxerzin/HaxKali/main/assets/banner.png" alt="HaxKali"></a>
-  <br>
-  HaxKali
-  <br>
 </h1>
 
-<h3><center>Extreme Performance Optimized Linux</center></h3>
+<h3 align="center">Extreme Performance Optimized Linux</h3>
 
 ## Features
 
@@ -20,7 +17,7 @@
 
 ## Download
 
-<a href="https://github.com/haxerzin/HaxKali"><img src="https://raw.githubusercontent.com/haxerzin/HaxKali/main/assets/klx.qcow2" alt="HaxKali">KLX.qcow2</a>
+<a href="https://github.com/haxerzin/HaxKali">KLX.qcow2</a>
 
 ## Changelog
 
