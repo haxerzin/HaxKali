@@ -1,85 +1,137 @@
-# HaxKali
+<h1 align="center">
+  <br>
+  <a href="https://github.com/haxerzin/HaxKali"><img src="https://raw.githubusercontent.com/haxerzin/HaxKali/main/assets/banner.png" alt="HaxKali"></a>
+  <br>
+  HaxKali
+  <br>
+</h1>
 
-<h1><center>EXTREME PERFORMANCE OPTIMIZED LINUX</center></h1>
+<h3><center>Extreme Performance Optimized Linux</center></h3>
+
+## Features
+
+- [x] KVM qcow2 Base Image
+- [x] Xanmod Kernel
+- [x] SSD & VM Optimizations
+- [x] Sandboxed Common Applications
+- [x] 500+ Useful Packages
+- [x] Preconfigured Common Tools
+- [x] App Execution Security Improvements
+
+## Download
+
+<a href="https://github.com/haxerzin/HaxKali"><img src="https://raw.githubusercontent.com/haxerzin/HaxKali/main/assets/klx.qcow2" alt="HaxKali">KLX.qcow2</a>
+
+## Changelog
 
 ```
 [ Core ]
 
-> Terminator made the default terminal
-> PPA installation support using dev essentials
-> Firefox-ESR customized for privacy, security and performance
-> Taskbar entries:
-	> Replaced standard terminal with terminator
+> xanmod kernel + extra perf mods
+> ls replaced with LSDeluxe
+> Shared Clipbourd Setup
+> grub optimization
+> Firefox-ESR Customized for Privacy, Security and Performance
+> Favorite Menu Entries:
+	> Root Terminal Emulator
+	> Exploit-DB
+	> VulnHub
+	> Github Desktop
 	> LibreWolf
-	> Ungoogled Chromium
+	> LibreOffice
+	> Minder
+	> CherryTree
+	> qBittorrent
+	> ImHex
+	> Ghidra
+	> Remote Desktop Manager
+	> Telegram Desktop
+	> Openshot Video Editor
+	> Decoder
+	> Obfuscate
+	> Pinta
+> Taskbar Entries
+	> Application Menu
+	> Desktop Swticher
+	> Kazam
+	> Stacer
+	> Mousepad
 	> Sublime Text
-	> Screenshot
-	> Vokoscreen-ng
-	> Wireshark
-	> Maltego
-	> Monero-GUI
-	> Gtk-Hash
-	> Aircrack-ng
-	> Clipboard Manager
+	> Obsidian
+	> Firefox-ESR
+	> Terminal
+	> Terminator
+	> Burpsuite Community Edition
 > Sublime Text Changes:
 	> Pre-installed package control
 	> Installed Packages:
-		> Python3
-		> VBScript
-		> VBDOTNET
-		> Powershell
-		> FileIcons
-		> JsonLint
 		> Emmet
-		> HTML5
-		> GoLang
-	> Selected Default Dark Theme
-	> Color Scheme Set As Monokai
-> Taskbar dark-blue background with 30px size
+	> Default Dark Theme
+> Desktop icons set to 30px
 > Terminator Config:
 	> Scroll on output
 	> Infinite scrolling
-> Favorites menu
-	> Removed: "Training from offsec"
-	> Removed: "Kali bugs"
-	> Removed: "Kali linux"
-	> Removed: "Web browser"
-	> Removed: "Text Editor"
-	> Removed: "Terminal Emulator"
-	> Added: Many actual useful applications from v1 installs
-> New tools:
+> Pre-Configured New Tools:
 	> XAMPP
-	> egresscheck framework under /home/
-	> clamav
-	> many more automation scripts
-> Linux Cheatsheets
-	> awk
-	> bash
-	> curl
-	> firewalld
-	> linux-permissions
-	> ssh
-	> sysadmin-networking
+	> updog
+	> proxychains4
+	> Invoke-Obfuscation
+	> Nuclei
+	> Assetfinder
+	> GetAllUrls
+	> httprobe
+	> XSStrike
+	> amass
+	> analyticsrelationships
+	> ffuf
+	> httpx
+	> anew
+	> gf
+	> inscope
+	> byp4xx
+	> crlfuzz
+	> dalfox
+	> dnsx
+	> dsieve
+	> enumerepo
+	> gidorks_go
+	> github-endpoints
+	> github_subdomains
+	> gitlab_subdomains
+	> gotator
+	> gowitness
+	> Gxss
+	> interactsh-client
+	> ipcdn
+	> katana
+	> mapcidr
+	> notify
+	> puredns
+	> qsreplace
+	> roboxtractor
+	> rush
+	> smap
+	> subfinder
+	> subjs
+	> tlsx
+	> trufflehog
+	> unfurl
+	> Web-Cache-Vulnerability-Scanner
+	> arjun
 > Custom scripts from haxerz.in:
 	> xampp-start.sh & xampp-stop.sh - for xampp
-	> rmac.sh - randomize mac address on wlan0
-	> webrecon scripts /home/webrecon/
-	> torfox.sh - firefix with proxychains
 
--- End of Version 2 Changelog --
-
-
--- HaxKali Version 1 Changelog --
-
-[ Core ]
-
-> xanmod kernel + extra perf mods (optimization)
-> grub modifications (optimization)
-
-[ Source Tools & Scripts ]
+[ APT Packages ]
 
 > locate
+> xdg-desktop-portal-gtk
+> mono-devel
+> spice-vdagent
+> apt-transport-https
+> ttf-mscorefonts-installer
+> lsd
 > preload
+> keepassxc
 > stacer
 > python3-pip
 > tor
@@ -90,9 +142,8 @@
 > gparted
 > qbittorrent
 > htop
-> btop++
-> sublime text
-> keepass xc
+> axel
+> neofetch
 > usbtop
 > kali-anonsurf
 > sirikali
@@ -479,7 +530,7 @@
 > xprobe
 > xsser
 > yersinia
-> beef-xss > amd64 i386]
+> beef-xss
 > saidar
 > hexinject
 > arping
@@ -607,62 +658,31 @@
 > geany
 > soundmodem
 > minimodem
-> reconftw
 > mat2
-> jquery exploits
-> shcheck security header checker
-> arjun
-> xsstrike
-> rburl
-> evil-url
-> malware-to-play-with
-> stegexpose
-> packetwhisper
-> angryipscanner
-> burpsuite keygen
-> xampp + scripts
-
-[ Sandboxed Tools - Flatpaks ]
-
-> metadata cleaner
-> identity
-> flatseal
-> tangram
-> obsfuscate
-> dialect
-> sound recorder
-> what ip
-> bottles
-> pdf slicer
-> kooha
-> decoder
-> authenticator
-> color picker
-> markets
-> video downloader
-> marker
-> easyssh
-> onlyoffice
-> hardware probe
-> vscodium
-> joplin
-> xemu
-> electronmail
-> monero gui
-> obsidian
-> ocrfeeder
-> thunderbird
-> xmind zen
-> popsicle
-> appimage pool
-> cipher
-> librewolf
-> ungoogled-chromium
-> libreoffice
-
--- End of Verison 1 Changelog --
+> shcheck
+> kazam
+> gnome-software-plugin-flatpak
 ```
 
-## Custom Images
+## Planned
 
-Will uploaded soon :D
+```
+> PPA installation support using dev essentials
+> ChayaV2
+
+> rmac.sh - randomize mac address on wlan0
+> webrecon scripts /home/webrecon/
+> torfox.sh - firefix with proxychains
+> Linux Cheatsheets
+	> awk
+	> bash
+	> curl
+	> firewalld
+	> linux-permissions
+	> ssh
+	> sysadmin-networking
+```
+
+## License
+
+GPLv3
