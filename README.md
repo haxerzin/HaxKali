@@ -14,6 +14,7 @@
 - [x] 500+ Useful Packages
 - [x] Preconfigured Common Tools
 - [x] App Execution Security Improvements
+- [x] PPA Support & Much More!
 
 ## Download
 
@@ -118,7 +119,12 @@
 	> Web-Cache-Vulnerability-Scanner
 	> arjun
 > Custom scripts from haxerz.in:
-	> xampp-start.sh & xampp-stop.sh - for xampp
+	> xampp-start.sh & xampp-stop.sh > xampp
+	> ChayaV2 > advance image steganography
+	> PacketWhisper > exfil data over dns
+	> PayloadAllTheThings > advance payloads & techniques
+	> Webrecon-Bash-Scripts > automate web recon for bug bounties
+	> optimize.sh > fstrim + preload
 
 [ APT Packages ]
 
@@ -126,6 +132,7 @@
 > xdg-desktop-portal-gtk
 > mono-devel
 > spice-vdagent
+> seclists
 > apt-transport-https
 > ttf-mscorefonts-installer
 > lsd
@@ -661,27 +668,16 @@
 > shcheck
 > kazam
 > gnome-software-plugin-flatpak
-```
-
-## Planned
-
-```
-> PPA installation support using dev essentials
-> ChayaV2
-
-> rmac.sh - randomize mac address on wlan0
-> webrecon scripts /home/webrecon/
-> torfox.sh - firefix with proxychains
-> Linux Cheatsheets
-	> awk
-	> bash
-	> curl
-	> firewalld
-	> linux-permissions
-	> ssh
-	> sysadmin-networking
+> dev-essential
+> devscripts
 ```
 
 ## License
 
-GPLv3
+<h2 align="center">
+	<a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://www.gnu.org/graphics/gplv3-127x51.png" alt="License"></a>
+</h2>
+
+## Contribute
+
+>> Submit Your Tools / Scripts via Issues
