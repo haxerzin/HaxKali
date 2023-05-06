@@ -22,6 +22,15 @@
 	<a href="https://drive.google.com/file/d/1UThLO4ApyIWnQwthnpPYDpzh-5xKLpSf/view?usp=share_link"><img src="https://raw.githubusercontent.com/haxerzin/HaxKali/main/assets/download_btn.png" alt="Download"></a>
 </h2>
 
+> File Information
+
+```
+Compressed Size: 12.7 GB
+Uncompressed Size: 100 GB
+Filetype: QCOW2
+Disk Type: SSD
+```
+
 ## Changelog
 
 ```
