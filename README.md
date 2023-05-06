@@ -19,7 +19,7 @@
 ## Download
 
 <h2 align="center">
-	<a href="https://github.com/haxerzin/HaxKali"><img src="https://raw.githubusercontent.com/haxerzin/HaxKali/main/assets/download_btn.png" alt="Download"></a>
+	<a href="https://drive.google.com/file/d/1UThLO4ApyIWnQwthnpPYDpzh-5xKLpSf/view?usp=share_link"><img src="https://raw.githubusercontent.com/haxerzin/HaxKali/main/assets/download_btn.png" alt="Download"></a>
 </h2>
 
 ## Changelog
