@@ -5,6 +5,12 @@
 
 <h3 align="center">Extreme Performance Optimized Linux</h3>
 
+## Download
+
+<h2 align="center">
+	<a href="https://filedn.com/lz1Vpa7FGvyHuvNcMyDJuyk/klx2023v2x64.7z"><img src="https://raw.githubusercontent.com/haxerzin/HaxKali/main/assets/download_btn.png" alt="Download"></a>
+</h2>
+
 ## Features
 
 - [x] KVM qcow2 Base Image
@@ -16,24 +22,42 @@
 - [x] App Execution Security Improvements
 - [x] PPA Support & Much More!
 
-## Download
-
-<h2 align="center">
-	<a href="https://drive.google.com/file/d/1UThLO4ApyIWnQwthnpPYDpzh-5xKLpSf/view?usp=share_link"><img src="https://raw.githubusercontent.com/haxerzin/HaxKali/main/assets/download_btn.png" alt="Download"></a>
-</h2>
-
 > File Information
 
 ```
-Compressed Size: 12.7 GB
-Uncompressed Size: 100 GB
+Download Size: 20.4 GB
+Compressed Size: 21.9 GB
+Uncompressed Size: 107.4 GB
 Filetype: QCOW2
-Disk Type: SSD
 ```
 
 ## Changelog
 
 ```
+
+
+-- 2023 v2 --
+
+[Core]
+
+> Security - Disable Legacy OpenSSL
+> Security - Disable Legacy Samba Client
+> Core - Updates using HTTPS
+> Core - Virtualization mode set to KVM
+> Core - System Upgraded Sept. 2023
+
+[Aliases]
+
+> alias UPGR='sudo apt update && sudo apt -y full-upgrade && sudo apt autoremove && sudo apt autoclean'
+> alias TRIM='sudo fstrim -a -v'
+> alias BASHEDIT='sudo nano ~/.zshrc'
+> alias XMST='bash ~/xampp-start.sh'
+> alias XMSP='bash ~/xampp-stop.sh'
+> alias BT='sudo service bluetooth start'
+
+
+-- 2023 v1 --
+
 [ Core ]
 
 > xanmod kernel + extra perf mods
